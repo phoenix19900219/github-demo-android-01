@@ -6,8 +6,8 @@ android {
 
     defaultConfig {
         applicationId "com.stone.demo01"
-//        minSdkVersion 14
-        minSdkVersion 21 //startLockTask() required
+        minSdkVersion 14
+        //minSdkVersion 21 //startLockTask() required
 
         targetSdkVersion 23
         versionCode 1
